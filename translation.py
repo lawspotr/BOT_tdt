@@ -2,7 +2,7 @@ class Translation(object):
 
     START_TEXT = """Hola,
 
-This is a Telegram URL Upload Bot!
+Soy un bot :3
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
@@ -11,7 +11,7 @@ This is a Telegram URL Upload Bot!
 
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hola :3..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -33,7 +33,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "a"
     
     DOWNLOAD_START = "⏬ Descargando..."
     
