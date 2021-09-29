@@ -28,7 +28,7 @@
     },
     "SCREENSHOTS": {
       "description": "Generate screenshots for file after uploading ( True or false )",
-      "value": "True",
+      "value": "False",
       "required": false
     },
     "AUTH_USERS": {
