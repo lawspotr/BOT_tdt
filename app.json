@@ -33,7 +33,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "value": ""
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
@@ -41,7 +41,7 @@
       "required": false
     },
     "DEF_THUMB_NAIL_VID_S": {
-      "description": "default thumbnail link to be used in the videos if youtube-dl is unable to find a thumbnail. Get a link for your image from @TGraphHEXbot",
+      "description": "default thumbnail link to be used in the videos if youtube-dl is unable to find a thumbnail. Get a link for your image from",
       "value": "",
       "required": false
     },
